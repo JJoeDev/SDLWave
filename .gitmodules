@@ -1,8 +1,8 @@
-[submodule "3rdparty/imgui"]
-  path = 3rdparty/imgui
+[submodule "imgui"]
+  path = imgui
   url = https://github.com/ocornut/imgui
   branch = docking
-[submodule "3rdparty/sdl"]
-  path = 3rdparty/sdl
+[submodule "sdl"]
+  path = sdl
   url = https://github.com/libsdl-org/SDL
   branch = SDL2
